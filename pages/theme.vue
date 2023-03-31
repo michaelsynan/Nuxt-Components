@@ -53,6 +53,37 @@
       </ul>
     </div>
   </div>
+  <div>
+    <h2>Theme Information</h2>
+    <div>
+      <p>Theme info goes here</p>
+    </div>
+    <button class="px-3 py-1.5 my-4 bg-red-800 hover:bg-red-700 text-stone-50">Submit</button>
+    <div>
+      <h3>Info Elements</h3>
+      <ul>
+        <li>Site Name</li>
+        <li>Tag Line</li>
+        <li>Call to Action</li>
+      </ul>
+    </div>
+  </div>
+  <div>
+    <h2>Links</h2>
+    <div>
+      <p>Link information goes here</p>
+    </div>
+    <button class="px-3 py-1.5 my-4 bg-red-800 hover:bg-red-700 text-stone-50">Submit</button>
+    <div>
+      <h3>Link Elements</h3>
+      <ul>
+        <li>Color</li>
+        <li>Weight</li>
+        <li>Decoration</li>
+        <li>Hover</li>
+      </ul>
+    </div>
+  </div>
   </div>
 </template>
 
